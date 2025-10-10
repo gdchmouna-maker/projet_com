@@ -1,0 +1,230 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    
+}
+.container img{
+    height: 80px;
+    width: 80px;
+}
+.item1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.item2{
+    text-align: center;
+}
+.titre{
+    font-size:50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.item1 button{
+    background-color: black;
+    color: azure;
+    height:25px;
+    width:150px;
+    font-size: x-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.item2 button{
+    background-color: #05a667;
+    height:50px ;
+    width: 250px;
+    border-radius: 13px;
+    border-color: #05a667
+}
+.item2 button{
+    color: white;
+}
+.para{
+    color: rgb(158, 143, 143);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.lift{
+    color: rgb(158, 143, 143);
+
+}
+.container h4{
+    font-size: small;
+}
+.alt{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2em;
+    
+}
+p{
+    color: rgb(170, 158, 158);
+}
+.one{
+    color: black;
+}
+.two{
+    color: gray;
+    font-size: small;
+
+}
+.tree{
+    color: gray;
+    font-size: small;
+
+}
+.etape1{
+    padding: 100px 100px 50px 100px;
+}
+.fainsta{
+    display: flex;
+    gap: 40px;
+}
+.etape1 button{
+    background-color:#f9a03f;
+    height: 35px;
+    width: 180px;
+    border-radius: 20px;
+    border-color: black;
+    
+}
+.face{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    
+}
+.insta{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.now{
+    color: black;
+    padding-top: 16px;
+    margin:17px;   
+}
+.card{
+    background-color: #f9a03f;
+    margin-left: 100PX;
+    margin-right: 100PX;
+    border: solid;
+    border-radius: 40PX;
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+    
+}
+.tout{
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    padding: 16px;
+
+}
+.name img{
+    height: 60px;
+    width:60px;
+    border-radius:40px;
+
+}
+.parag{
+    color: black;
+    margin:30px;
+    
+}
+.name{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+    
+
+}
+.cntntimg {
+position: absolute;
+top: 1080px;
+right:50px;
+
+}
+.etape2 button{
+    background-color:#57da61;
+    height: 35px;
+    width: 180px;
+    border-radius: 20px;
+    border-color: black;
+    }
+    .fainsta1{
+    display: flex;
+    gap: 40px;}
+    .now{
+    color: black;
+    padding-top: 16px;
+    margin:17px;}
+    .petit{
+        width: 25PX;
+        border-radius: 100%;
+    }
+    .verte{
+        position: absolute;
+        left: 35px;
+        top: 1693px;
+    }
+    .card1 button{
+    background-color:#57da61;
+    height: 35px;
+    width: 180px;
+    border-radius: 20px;
+    border-color: black;
+    }
+    .card1{
+        padding: 10px 0 10px 450px;
+        background-color: #57da61;
+        width: 550px;
+        margin-left: 150PX;
+        border-radius: 25px;
+    }
+    .etape2{
+    padding: 10px 0 50px 550px;
+}
+.parag1{
+    color: black;
+    
+    
+}
+.mouve{
+    background-color: rgb(64, 25, 206);
+    border-radius: 20PX;
+    height: 35px;
+    width: 180px;
+}
+.card2{
+    background-color:  rgb(64, 25, 206);
+    margin-left: 100PX;
+    margin-right: 100PX;
+    border: solid;
+    border-radius: 40PX;
+    color: white;
+    
+}
+.etape3{
+    padding: 100px 100px 50px 100px;
+    color: white;
+}
+.parag3{
+    color: white;
+    padding: 10PX;
+}
